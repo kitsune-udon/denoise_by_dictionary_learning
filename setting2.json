@@ -1,0 +1,25 @@
+{
+  "setting_id": "s1",
+  "pw": 64,
+  "ph": 16,
+  "n_atoms": 128,
+  "sparsity": 32,
+  "n_samples": 4000,
+  "working_dir": "./results",
+  "dictionary_filename": "dictionary.npy",
+  "dictionary_img_filename": "dictionary.png",
+  "training_images": [
+    "./training_images/training0.bmp",
+    "./training_images/training1.bmp",
+    "./training_images/training2.bmp",
+    "./training_images/training3.bmp",
+    "./training_images/training4.bmp",
+    "./training_images/training5.bmp",
+    "./training_images/training6.bmp",
+    "./training_images/training7.bmp"
+  ],
+  "noise_images": [
+    "./noise_images/test0.bmp",
+    "./noise_images/test1.bmp"
+  ]
+}

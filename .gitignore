@@ -1,0 +1,4 @@
+*.pyc
+/results
+/noise_images
+/training_images
